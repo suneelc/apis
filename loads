@@ -1,0 +1,154 @@
+[
+   {
+      "ShipmentContacts": [
+         {
+            "FirstName": "Venkata Suneel",
+            "middleName": "Kumar",
+            "LastName": "Chimakurti",
+            "phoneNumber": 16465526764,
+            "EmailAddress": "suneelkumar.chv@cognizant.com"
+         }
+      ],
+      "Shipment": {
+         "shipmentID": "SNI_0000001",
+         "LoadType": "Live Load",
+         "UnloadType": "Live Unload",
+         "SpecialDetails": {
+            "totalMiles": "2222 Mi",
+            "IsHazardous": true,
+            "IsLiveLoad": true,
+            "TotalWeight": "2434 lbs",
+            "NumberOfStops": 2,
+            "TransportModel": "Dry Van"
+         },
+         "Stops": [
+            {
+               "StopType": "Pickup",
+               "StopSequence": 2,
+               "EarlyDateTime": "30/12/2019",
+               "DeadHead": 150,
+               "References": [
+                  {
+                     "ReferencesType": "",
+                     "ReferencesValue": 0
+                  }
+               ],
+               "location?": {
+                  "LocationID": 123,
+                  "LocationName": "",
+                  "Address": {
+                     "AddressLineOne": "woodbridge terr",
+                     "AddressLinetwo": "",
+                     "City": "woodbridge",
+                     "StateProvince": "NewJersey",
+                     "PostalCode": 7095,
+                     "Country": "USA"
+                  },
+                  "Latitude": 234234234234234,
+                  "Longitude": 23232434234234,
+                  "LocationContact": {
+                     "FirstName": "Venkata Suneel",
+                     "middleName": "Kumar",
+                     "LastName": "Chimakurti",
+                     "phoneNumber": 16465526764,
+                     "EmailAddress": "suneelkumar.chv@cognizant.com"
+                  },
+                  "Note": ""
+               }
+            }
+         ]
+      },
+      "References": [
+         {
+            "ReferencesType": "",
+            "ReferencesValue": 0
+         }
+      ],
+      "SpecialServices": [
+         {
+            "SpecialServiceID": "",
+            "SequenceNumber": 1
+         }
+      ],
+      "Rates": {
+         "CurrencyCode": "dollar",
+         "Amount": 2300
+      }
+   },
+   {
+      "ShipmentContacts": [
+         {
+            "FirstName": "Venkata Suneel",
+            "middleName": "Kumar",
+            "LastName": "Chimakurti",
+            "phoneNumber": 16465526764,
+            "EmailAddress": "suneelkumar.chv@cognizant.com"
+         }
+      ],
+      "Shipment": {
+         "shipmentID": "SNI_0000002",
+         "LoadType": "Live Load",
+         "UnloadType": "Live Unload",
+         "SpecialDetails": {
+            "totalMiles": "2222 Mi",
+            "IsHazardous": true,
+            "IsLiveLoad": true,
+            "TotalWeight": "2434 lbs",
+            "NumberOfStops": 2,
+            "TransportModel": "Dry Van"
+         },
+         "Stops": [
+            {
+               "StopType": "Pickup",
+               "StopSequence": 2,
+               "EarlyDateTime": "30/12/2019",
+               "DeadHead": 150,
+               "References": [
+                  {
+                     "ReferencesType": "",
+                     "ReferencesValue": 0
+                  }
+               ],
+               "location?": {
+                  "LocationID": 123,
+                  "LocationName": "",
+                  "Address": {
+                     "AddressLineOne": "woodbridge terr",
+                     "AddressLinetwo": "",
+                     "City": "woodbridge",
+                     "StateProvince": "NewJersey",
+                     "PostalCode": 7095,
+                     "Country": "USA"
+                  },
+                  "Latitude": 234234234234234,
+                  "Longitude": 23232434234234,
+                  "LocationContact": {
+                     "FirstName": "Venkata Suneel",
+                     "middleName": "Kumar",
+                     "LastName": "Chimakurti",
+                     "phoneNumber": 16465526764,
+                     "EmailAddress": "suneelkumar.chv@cognizant.com"
+                  },
+                  "Note": ""
+               }
+            }
+         ]
+      },
+      "References": [
+         {
+            "ReferencesType": "",
+            "ReferencesValue": 0
+         }
+      ],
+      "SpecialServices": [
+         {
+            "SpecialServiceID": "",
+            "SequenceNumber": 1
+         }
+      ],
+      "Rates": {
+         "CurrencyCode": "dollar",
+         "Amount": 2300
+      }
+   }
+]
